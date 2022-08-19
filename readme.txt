@@ -1,1 +1,1 @@
-This is c++ projects' repository.
+This is c++ projects'and codewars repository.
